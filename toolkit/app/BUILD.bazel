@@ -42,6 +42,7 @@ go_test(
         "app_test.go",
         "collect_test.go",
         "config_test.go",
+        "entity_test.go",
         "version_test.go",
         "xid_collect_test.go",
     ],
